@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "description": "A datapack introducing Japanese that katakana for transliteration is replaced with English.",
+    "max_format": [97,1],
+    "min_format": [97,1]
+  },
+  "language": {
+    "ja_dt": {
+      "name": "音訳なし日本語",
+      "region": "日本",
+      "bidirectional": false
+    }
+  }
+}
