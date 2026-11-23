@@ -3358,7 +3358,7 @@
     "container.repair.cost": "Enchant の Cost ：%1$s Level",
     "container.repair.expensive": "Cost が高すぎます！",
     "container.shulkerBox": "Shulker Box",
-    "container.shulkerBox.itemCount": "%s %s個",
+    "container.shulkerBox.itemCount": "%s個%s",
     "container.shulkerBox.more": "その他%s項目…",
     "container.shulkerBox.unknownContents": "？？？",
     "container.smoker": "燻製器",
