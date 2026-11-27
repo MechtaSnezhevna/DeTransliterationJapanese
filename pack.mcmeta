@@ -1,8 +1,7 @@
 {
   "pack": {
-    "description": "A datapack introducing Japanese that katakana for transliteration is replaced with English.",
-    "max_format": [97,1],
-    "min_format": [97,1]
+    "description": "A resource pack that replaces katakana loanwords in Japanese text with their original English terms.",
+    "pack_format": 34
   },
   "language": {
     "ja_dt": {
